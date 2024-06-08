@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Shop Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Myself**
 
 - 📫 How to reach me **saidovislom7777@gmail.com**
 
