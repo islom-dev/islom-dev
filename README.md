@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Tajikistan, Dushanbe</h3>
 <img align="right" width="400" src="./suratGitHub.gif" alt="Coding">
 
-- 🔭 I’m currently working on **Shop Project**
-
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🔭 I’m **18** years old
 
 - 💬 Ask me about **Myself**
 
