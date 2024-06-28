@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Islom-dev</h1>
+<h1 align="center">Hi 👋, I'm Islom Saidov</h1>
 <h3 align="center">A passionate frontend developer from Tajikistan, Dushanbe</h3>
 <img align="right" width="400" src="./suratGitHub.gif" alt="Coding">
 
